@@ -1,5 +1,6 @@
 let events = [
     LaunchScene,
+    TestScene
     //Add other event scenes here
 ];
 
